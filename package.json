@@ -9,7 +9,14 @@
   "author": "Lalo Gonzalez, Richard Hill, Yong Huang, Xinyuan Liu",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
-    "express": "^4.16.4"
+    "ejs-locals": "^1.0.2",
+    "express": "^4.16.4",
+    "firebase-admin": "^6.1.0",
+    "firebase-functions": "^2.1.0",
+    "firebase-tools": "^6.1.0",
+    "firestore": "^1.1.6",
+    "method-override": "^3.0.0"
   }
 }

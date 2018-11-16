@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+	<link href="public/style.css" rel="stylesheet">
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+	<script src="public/app.js"></script>
+</head>
+<body class="container">
+	<div class="row p-5">
+		<h1>Hello World</h1>
+	</div>
+	<div class='row p-5'>
+			<table class="table">
+				<thead>
+					<tr>
+						<th scope="col">#</th>
+						<th scope="col">First</th>
+						<th scope="col">Last</th>
+						<th scope="col">Username</th>
+						<th scope="col">Detail</th>
+						<th scope="col">Log</th>
+					</tr>
+				</thead>
+				<tbody>
+				<% var i = 1 %>	
+				<% dataToUse.forEach(function(data){ %>
+					<tr>
+						<th scope="row"><%= i %></th>
+						<% i = i +1%>
+						<td><%= data.data().first %></td>
+						<td><%= data.data().last %></td>
+						<td><%= data.data().username %></td>
+						<td>
+						<a href='/users/<%= data.id%>'>View details</a> 
+						</td>
+						<td> 
+						<a href='/users/<%= data.id%>/bloodpressure/new'> Blood Pressure</a>  
+						<a href='/users/<%= data.id%>/bloodsugar/new'> Blood Sugar</a>
+						<a href='/users/<%= data.id%>/weight/new'> Weight</a>
+						</td>
+					</tr>
+				<% }); %>	
+				</tbody>
+			</table>
+		</div>
+</body>
+</html>

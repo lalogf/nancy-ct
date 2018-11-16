@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "nancy-hmw-044",
+  "private_key_id": "c8d37b8c6c6862e4e2baba8ce6a174e17ceac887",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC0XVazcQlQyrhI\ncLPZlPuhK4VTeJ18wtPHNZZEwC13abmjRtJ5ni2bJ64/l3yC+0LeZtm+9/WBXceC\nm4lg/0uKoB1bsiU/Aas1vehQCc/M49mQ48xPpWPJU29urDQJXxYdgOzcUqCIw6j+\nvclbkUai3aNicwMl9FudJXfX7EZvBHBAEvNglPKkJWcN3QMctV19PlwBWjEY/2cH\nBQ74l7PWcVWj4Y2H3GALqDBntIBN9MbWzEZ0A48/yO4gR1B5EyjJ+P34uLwkghqF\nix+kptB0TEWN8pAwR+d3Ew84JA53LNBhJr5Nm9xICa3PIMLSb34MHmHa2YTyNXoK\nNfWPm4TzAgMBAAECggEAVVcIq/TjBIA2u8ffwSa1/OdbuUgLtDl2/P4E8NjBaovy\n0yeydOr8Bzq6PsqNlmgOlq6xfqNSXXii6tBvKx8AfkIOQhHDf9FpUg9eOWi7EuYI\nTn8Kb/EAiwTYZ9RA9uIv05vp9sF9xdhWQNpJyPKvKmaWZQGoTrAVHQDaeKcKGIKE\nudStOIdknQrsiZjrU8Wz4lP63JRRQliK6ePRf5+vMomnwr+jTy+5i4Eaf4B7denl\nBUp+qOXZnyiZURYSt1+BmfZaF2Ou0gPyyhga4/fQ9AKDP+r0tNn0z3PfkqM7ydks\nQZ9UrCziuwOWNJu55WevS+c9WwhCOgb4uYQyAI90oQKBgQDbj58+9obSTSRBqZH4\nXdH+k73T2kbZS6F0XqUR5Wo9eQ5obxqzhf2xAaPXmWyj3S5I7+FrC22JMn2z5pyP\n/e7lijm3cVfBCSHbiBGhvaS3uLIcwecisPCstDGDu7Cw4ymJQvhJdwvWzJOKqJoc\nxP6CII492L88iV8OdnHlzfEEAwKBgQDSTGXxLruvHjex2XIPEv0IPm3jlFzT+GFy\nNmQjUdyCPixHpMcypl0fG6EUqrDQ0lAp8te0TnPfuIXY1fOq5aNPMwio4XdvQAqS\nAj9KGxAGSoU8w5KXtdKa4woa0RsZxhE2ZuBDuJLJr/LJrqVfQDV6y/KalyMdQTmp\n5Sz4ZR3AUQKBgQDEQ4svRkHYRXrOc1z3bi5j6f87HBhO74tgsaXO7ItebhMSCZcN\nuQ3Ap12lQRFbHUDdlAilnm6IwKibIt763Bwr9baII3o1JQut6OER+qr+S8xzZmVN\nnmtVhjHotuNIC5e6ijHVwePEW9TbksFITFPRUHa2FEVGQOnGzNwdd00lrwKBgB37\nxo0cnKXbKRWyaxC7JFiIjiJkhNe0EjC2kJB4m3f2ZVnRpJUUIzLMPas0qwEa+1L/\nzMFobhz3sh24Y4V6OE6SeCmb++tgtiEbMOrf8Oj0twpy1/PJeL2coVQxfCuwkcOv\n50nAhy06aONYgzuRbA6WBYEFC3ygUBhpFIBV6mgBAoGALATGr4S9vOwLindqdKXc\nbloi7ppcxi5pXEItakSWoTDcpW2Ub1/WTL/8HxYhIISzr/ht08OopzS7gYp5vFqr\nS02KCQagXCQkKuz4pPlfmK3AWfyDaZGnjlILw/5axhqfdf1/WJGiIXPS3940rThs\n8cUDfdmHAGP2u6J4G/Gisn0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "nancy-hmw-044@nancy-hmw-044.iam.gserviceaccount.com",
+  "client_id": "117040424923821422217",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nancy-hmw-044%40nancy-hmw-044.iam.gserviceaccount.com"
+}
