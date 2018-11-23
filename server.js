@@ -9,7 +9,7 @@ const bodyParser = require('body-parser');
 const methodOverride = require('method-override');
 var time = new Date;
 
-var serviceAccount = require('./env/nancy-hmw-044-c8d37b8c6c68.json');
+var serviceAccount = require('./env/nancy-hmw-044-87684c7c9336.json');
 
 admin.initializeApp({
 	credential: admin.credential.cert(serviceAccount),
